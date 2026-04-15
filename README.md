@@ -20,3 +20,6 @@ Motivación para el uso de agentes de IA, LLMs y RAG:
 
 Referencias o anexos relevantes:
     .
+-----------------------------------------------------------------------------------
+Parte 2:
+    Se agregó el Chain of Thought al ChatBot, se confirguró para que mantenga la memoria de la parte 1 y el streaming habilitado, se sigue manteniendo el tema para turismo
