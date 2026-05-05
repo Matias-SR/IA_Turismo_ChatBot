@@ -1,0 +1,192 @@
+[
+  {
+    "id": "3m_001",
+    "title": "Descripcion General de la Plataforma",
+    "category": "overview",
+    "content": "3M Tours es una plataforma digital de turismo inteligente con base en Puerto Montt, Chile. Permite a los usuarios explorar, comparar y reservar experiencias de viaje como tours, actividades y alojamientos desde una aplicación móvil o web. La plataforma integra múltiples servicios turísticos en una sola interfaz, facilitando la planificación completa de viajes en el sur de Chile.",
+    "keywords": ["3M Tours", "plataforma turismo", "Puerto Montt", "reservas"],
+    "entities": ["3M Tours", "Puerto Montt", "Chile"],
+    "chunk_type": "concept",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_002",
+    "title": "Contexto del Negocio",
+    "category": "business",
+    "content": "La región de Los Lagos tiene alta demanda turística, pero la oferta de servicios está fragmentada. Esto dificulta que los visitantes organicen sus viajes de manera eficiente. 3M Tours resuelve este problema centralizando la información de tours, alojamientos y actividades, permitiendo reservas en tiempo real desde una sola plataforma digital.",
+    "keywords": ["turismo sur", "Los Lagos", "problema mercado"],
+    "entities": ["Región de Los Lagos"],
+    "chunk_type": "context",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_003",
+    "title": "Mision de la Empresa",
+    "category": "company",
+    "content": "La misión de 3M Tours es facilitar la planificación de viajes en el sur de Chile mediante una plataforma digital intuitiva, confiable y completa, que permita a los usuarios acceder a múltiples servicios turísticos en un solo lugar.",
+    "keywords": ["mision", "empresa"],
+    "entities": ["3M Tours"],
+    "chunk_type": "definition",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_004",
+    "title": "Vision de la Empresa",
+    "category": "company",
+    "content": "La visión de 3M Tours es convertirse en la principal plataforma de turismo inteligente en el sur de Sudamérica para el año 2030, destacando por su innovación tecnológica y calidad de servicio.",
+    "keywords": ["vision", "empresa"],
+    "entities": ["3M Tours"],
+    "chunk_type": "definition",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_005",
+    "title": "Ecosistema de Usuarios",
+    "category": "users",
+    "content": "3M Tours opera como un marketplace que conecta tres tipos de usuarios: turistas que buscan experiencias, proveedores que ofrecen servicios turísticos y administradores que supervisan la calidad y funcionamiento de la plataforma.",
+    "keywords": ["usuarios", "marketplace"],
+    "entities": ["3M Tours"],
+    "chunk_type": "concept",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_006",
+    "title": "Flujo del Usuario Cliente",
+    "category": "user_flow",
+    "content": "El flujo del cliente comienza con la exploración de tours, seguido por la selección de una experiencia, revisión de detalles como precio y duración, elección de fecha, reserva y pago. Finalmente, el usuario recibe confirmación y puede calificar la experiencia después de realizarla.",
+    "keywords": ["flujo usuario", "reserva"],
+    "entities": [],
+    "chunk_type": "process",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_007",
+    "title": "Tipos de Experiencias",
+    "category": "services",
+    "content": "La plataforma ofrece diversos tipos de experiencias como tours de naturaleza, actividades culturales, deportes de aventura y servicios personalizados adaptados a las preferencias del cliente.",
+    "keywords": ["tours", "experiencias"],
+    "entities": [],
+    "chunk_type": "listing",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_008",
+    "title": "Integracion de Alojamiento",
+    "category": "features",
+    "content": "Cada tour en 3M Tours puede incluir recomendaciones de alojamiento cercanas. Estas opciones se clasifican por precio, tipo de hospedaje, calificación de usuarios y disponibilidad, permitiendo al usuario complementar su experiencia de viaje.",
+    "keywords": ["alojamiento", "hoteles"],
+    "entities": [],
+    "chunk_type": "feature",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_009",
+    "title": "Sistema de Pagos",
+    "category": "features",
+    "content": "3M Tours permite pagos mediante tarjetas, transferencias y billeteras digitales. El sistema valida automáticamente las transacciones, genera comprobantes digitales y confirma las reservas en tiempo real.",
+    "keywords": ["pagos", "transacciones"],
+    "entities": [],
+    "chunk_type": "feature",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_010",
+    "title": "Sistema de Reputacion",
+    "category": "features",
+    "content": "Los usuarios pueden calificar tours, dejar comentarios y subir contenido después de cada experiencia. Los proveedores con mejores evaluaciones obtienen mayor visibilidad dentro de la plataforma.",
+    "keywords": ["reseñas", "rating"],
+    "entities": [],
+    "chunk_type": "feature",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_011",
+    "title": "Seguridad y Confianza",
+    "category": "security",
+    "content": "La plataforma implementa validación de proveedores, monitoreo de reseñas, cifrado de datos personales y sistemas de pago seguros para garantizar la confianza de los usuarios.",
+    "keywords": ["seguridad", "datos"],
+    "entities": [],
+    "chunk_type": "policy",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_012",
+    "title": "Motor de Recomendacion",
+    "category": "ai",
+    "content": "El sistema de recomendación utiliza datos como historial de reservas, preferencias del usuario, popularidad de tours y temporada del año para sugerir experiencias relevantes.",
+    "keywords": ["recomendacion", "ia"],
+    "entities": [],
+    "chunk_type": "logic",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_013",
+    "title": "Caso de Uso Reserva Rapida",
+    "category": "use_case",
+    "content": "Un turista puede encontrar un tour, revisar disponibilidad, seleccionar alojamiento cercano y completar una reserva en pocos minutos utilizando la plataforma.",
+    "keywords": ["caso uso", "reserva"],
+    "entities": [],
+    "chunk_type": "example",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_014",
+    "title": "Caso de Uso Planificacion Completa",
+    "category": "use_case",
+    "content": "Un usuario puede planificar un viaje completo reservando múltiples tours, organizando alojamiento y gestionando horarios sin conflictos desde una sola aplicación.",
+    "keywords": ["planificacion viaje"],
+    "entities": [],
+    "chunk_type": "example",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_015",
+    "title": "Problemas Comunes",
+    "category": "support",
+    "content": "Los problemas más comunes incluyen cancelaciones por clima, sobrecupos en temporada alta y diferencias entre expectativas y experiencia. La plataforma ofrece soluciones como reembolsos o reprogramaciones.",
+    "keywords": ["problemas", "soporte"],
+    "entities": [],
+    "chunk_type": "issue",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_016",
+    "title": "Soporte al Cliente",
+    "category": "support",
+    "content": "3M Tours ofrece soporte a través de chat en vivo, correo electrónico y un centro de ayuda dentro de la aplicación.",
+    "keywords": ["soporte", "ayuda"],
+    "entities": [],
+    "chunk_type": "feature",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_017",
+    "title": "Datos Clave de la Empresa",
+    "category": "metadata",
+    "content": "3M Tours es una empresa de turismo digital fundada en 2023 en Puerto Montt, Chile. Opera como un marketplace de servicios turísticos.",
+    "keywords": ["empresa", "datos"],
+    "entities": ["3M Tours"],
+    "chunk_type": "fact",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_018",
+    "title": "FAQ Reservar Tour",
+    "category": "faq",
+    "content": "Para reservar un tour, el usuario debe seleccionar la experiencia, elegir fecha y horario y completar el pago dentro de la plataforma.",
+    "keywords": ["faq", "reservar"],
+    "entities": [],
+    "chunk_type": "faq",
+    "source": "doc_ficticio_v1"
+  },
+  {
+    "id": "3m_019",
+    "title": "FAQ Cancelaciones",
+    "category": "faq",
+    "content": "Las reservas pueden cancelarse según las políticas del proveedor. En casos como mal clima, se puede reprogramar o solicitar reembolso.",
+    "keywords": ["faq", "cancelacion"],
+    "entities": [],
+    "chunk_type": "faq",
+    "source": "doc_ficticio_v1"
+  }
+]
