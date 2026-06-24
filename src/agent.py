@@ -21,7 +21,7 @@ except Exception as e:
 
 # Inicializar modelo de lenguaje
 llm = ChatOpenAI(
-    model="openai/gpt-4o-mini",
+    model="gpt-4o-mini",
     api_key=OPENAI_API_KEY if OPENAI_API_KEY else "missing_key",
     base_url=OPENAI_BASE_URL,
     temperature=0.2, # Baja temperatura para mayor consistencia lógica y menor alucinación
